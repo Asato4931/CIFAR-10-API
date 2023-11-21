@@ -2,9 +2,9 @@
 
 ## 概要
 
-CIFAR-10 画像データセットを用いて作成した画像分類モデル※で、APIサーバーを作成しました。
+CIFAR-10 画像データセットを用いて作成した画像分類モデルで、APIサーバーを作成しました。
 
-(※モデルのレポジトリはこちら : https://github.com/Asato4931/CIFAR-10-Classifier )
+(モデルのレポジトリはこちら : https://github.com/Asato4931/CIFAR-10-Classifier )
 
 ## 内容
 
