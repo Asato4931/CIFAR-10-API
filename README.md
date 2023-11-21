@@ -30,7 +30,7 @@ CIFAR-10 画像データセットを用いて作成した画像分類モデル�
 
 ## 作成手順
 
-具体的な作成手順は以下の画像をクリックして参照してください。
+APIの基本の解説も含んだ、具体的な作成手順は以下の画像をクリックして参照してください。
 
 <a href = https://qiita.com/asato4931/private/fd3b13ca22ca9cf3b4ea>
   <img width="565" alt="image" src="https://github.com/Asato4931/CIFAR-10-API/assets/108675293/02e50ff0-bc49-423d-a7c9-c9ed9bd592ff">
