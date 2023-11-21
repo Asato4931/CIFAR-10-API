@@ -16,10 +16,12 @@ CIFAR-10 画像データセットを用いて作成した画像分類モデル�
 がレスポンスとして送られます。
 
 **クラス**
+
 <img width="705" alt="image" src="https://github.com/Asato4931/CIFAR-10-API/assets/108675293/7c8d545f-f11f-4e95-8caa-8a3602b415b9">
 
 
 **結果例**
+
 <img width="679" alt="image" src="https://github.com/Asato4931/CIFAR-10-API/assets/108675293/6f349887-2b1b-497b-9004-67fd6a27ec4a">
 
 
