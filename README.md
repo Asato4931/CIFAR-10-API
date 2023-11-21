@@ -32,6 +32,6 @@ CIFAR-10 画像データセットを用いて作成した画像分類モデル�
 具体的な作成手順は以下を参照ください。
 
 <a href = https://qiita.com/asato4931/private/fd3b13ca22ca9cf3b4ea>
-<img width="605" alt="image" src="https://github.com/Asato4931/CIFAR-10-API/assets/108675293/25c26362-18ef-43ad-825b-1c5bb43a6352">
+  <img width="605" alt="image" src="https://github.com/Asato4931/CIFAR-10-API/assets/108675293/25c26362-18ef-43ad-825b-1c5bb43a6352">
 </a>
 
